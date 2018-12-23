@@ -10,24 +10,20 @@ Java: Sound Knowledge of java
 Version Control: Basics
 JSON: Basics
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Lesson 1: Installing Android Studio
 
-```python
-import foobar
+Download Android Studio from [here](https://www.developer.android.com/studio)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+#### Windows:
+Launch the downloaded .exe file. The setup wizard will walk you through the installation process. Ensure that you install the SDK packages along with AVD as and when prompted.
 
-Please make sure to update tests as appropriate.
+#### MAC:
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Launch the Android Studio DMG file. Launch android studio from the application folder. Choose from the options of setting and follow the setup wizard.
+
+#### Linux: 
+
+Unpack the .zip file you downloaded to an appropriate location (/usr/local/ for your user profile)
+Open the terminal, navigate to android-studio/bin directory and execute studio.sh. Run the setup wizards that follows.
