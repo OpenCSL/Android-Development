@@ -34,9 +34,10 @@ JSON: Basics
 ## Contribution
 Pull requests are welcome. In case something severe is to be brought under notice please open an issue.
 
+## Complete Tutorial
+For complete tutorial download the [app](www.linkgoeshere.com)
+
 ## Course Instructors 
-### Harsh Joshi 
-[Github](github.com/josharsh)
-### Priyanka Yadav 
-[Github](github.com/priyanka488)
+### Harsh Joshi             ##### [Github](github.com/josharsh)
+### Priyanka Yadav          ##### [Github](github.com/priyanka488)
 
