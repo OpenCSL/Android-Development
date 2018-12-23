@@ -38,6 +38,8 @@ Pull requests are welcome. In case something severe is to be brought under notic
 For complete tutorial download the [app](www.linkgoeshere.com)
 
 ## Course Instructors 
-### Harsh Joshi             ##### [Github](github.com/josharsh)
-### Priyanka Yadav          ##### [Github](github.com/priyanka488)
+### Harsh Joshi             
+[Github](github.com/josharsh)
+### Priyanka Yadav
+[Github](github.com/priyanka488)
 
