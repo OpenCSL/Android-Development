@@ -12,18 +12,29 @@ JSON: Basics
 
 
 ## Lesson 1: Installing Android Studio
+## Lesson 2: Android Architecture & Studio Basics
+## Lesson 3: XML, Android Layouts and Android UI
+## Lesson 4: Activity Classes and Object Fundamentals
+## Lesson 5: First Android Application
+## Lesson 6: User-Input, Intents, Events & Multiple Screens
+## Lesson 7: Android Manifest, Res Folder and logging
+## Lesson 8: Contacts App using Array Adapter
+## Lesson 9: Permissions, API and URI Fundamentals
+## Lesson 10: Networking, JSON Processing and HTTP Request
+## Lesson 11: Reading From an Input Stream
+## Lesson 12: Threads in Android
+## Lesson 13: Data Storage Fundamentals
+## Lesson 14: SQLite 
+## Lesson 15: Data Storage: Applications
 
-Download Android Studio from [here](https://www.developer.android.com/studio)
 
+## 
+## 
 
-#### Windows:
-Launch the downloaded .exe file. The setup wizard will walk you through the installation process. Ensure that you install the SDK packages along with AVD as and when prompted.
+## Contribution
+Pull requests are welcome. In case something severe is to be brought under notice please open an issue.
 
-#### MAC:
+## Course Instructors 
+# Harsh Joshi [Github](github.com/josharsh)
+# Priyanka Yadav [Github] (github.com/priyanka488)
 
-Launch the Android Studio DMG file. Launch android studio from the application folder. Choose from the options of setting and follow the setup wizard.
-
-#### Linux: 
-
-Unpack the .zip file you downloaded to an appropriate location (/usr/local/ for your user profile)
-Open the terminal, navigate to android-studio/bin directory and execute studio.sh. Run the setup wizards that follows.
